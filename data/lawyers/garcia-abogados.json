@@ -1,0 +1,22 @@
+{
+  "slug": "garcia-abogados",
+  "nombre_estudio": "García Abogados",
+  "ubicaciones": ["Valencia", "Alicante"],
+  "areas_practica": [
+    {
+      "nombre": "Derecho Laboral",
+      "tipos_casos": ["Despidos", "Reclamaciones Salariales", "Seguridad Social"]
+    },
+    {
+      "nombre": "Derecho Penal",
+      "tipos_casos": ["Delitos Económicos", "Defensa Penal"]
+    }
+  ],
+  "resumen": "García Abogados es un bufete especializado en derecho laboral y penal con una trayectoria de más de 15 años en el sector jurídico valenciano.",
+  "valores": ["Cercanía", "Transparencia", "Ética", "Eficacia"],
+  "contacto": {
+    "telefono": "+34 96 345 67 89",
+    "email": "info@garciaabogados.es",
+    "direccion": "Avenida Reino de Valencia 15, 46005 Valencia"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "bufete-martinez",
+  "nombre_estudio": "Bufete Martínez & Asociados",
+  "ubicaciones": ["Madrid", "Barcelona"],
+  "areas_practica": [
+    {
+      "nombre": "Derecho Civil",
+      "tipos_casos": ["Contratos", "Herencias", "Divorcios"]
+    },
+    {
+      "nombre": "Derecho Mercantil",
+      "tipos_casos": ["Constitución de Sociedades", "Contratos Mercantiles"]
+    }
+  ],
+  "resumen": "Bufete Martínez & Asociados es un despacho de abogados con más de 20 años de experiencia ofreciendo asesoramiento jurídico integral a particulares y empresas.",
+  "valores": ["Profesionalidad", "Confidencialidad", "Compromiso", "Excelencia"],
+  "contacto": {
+    "telefono": "+34 91 123 45 67",
+    "email": "contacto@bufetemartinez.es",
+    "direccion": "Calle Mayor 28, 28013 Madrid"
+  }
+}

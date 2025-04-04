@@ -1,0 +1,20 @@
+ConectaAbogados Project — Global Build Constraints
+
+This project is a Spanish-language directory for law firms. The platform is called ConectaAbogados and will be developed slowly and intentionally in roadmap-based phases.
+
+You are currently in **Roadmap Phase 1**.
+
+Phase 1 includes only:
+- A homepage (`/`) with law firm cards
+- A dynamic profile page at `/bufete/[slug]`
+- Profiles will be generated using structured JSON files
+
+Do not generate anything beyond what’s described above.
+- Do not implement layouts, filters, navigation, or design systems
+- Do not install icon libraries, UI kits, or extra styling packages
+- Do not assume data structures or create mock content
+
+Data is sourced from JSON law firm profiles provided via webhook or local file.
+
+All development must follow roadmap phases and will be guided by explicit prompts. Build only what is asked, nothing more.
+

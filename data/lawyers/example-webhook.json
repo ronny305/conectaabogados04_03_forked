@@ -1,0 +1,22 @@
+{
+  "slug": "perez-asociados",
+  "nombre_estudio": "Pérez & Asociados",
+  "ubicaciones": ["Sevilla", "Málaga"],
+  "areas_practica": [
+    {
+      "nombre": "Derecho Administrativo",
+      "tipos_casos": ["Recursos Administrativos", "Contratos Públicos", "Sanciones"]
+    },
+    {
+      "nombre": "Derecho Urbanístico",
+      "tipos_casos": ["Licencias", "Planeamiento", "Disciplina"]
+    }
+  ],
+  "resumen": "Pérez & Asociados es un despacho especializado en derecho administrativo y urbanístico con más de 25 años de experiencia en el sector público y privado.",
+  "valores": ["Rigor", "Experiencia", "Especialización", "Innovación"],
+  "contacto": {
+    "telefono": "+34 95 456 78 90",
+    "email": "info@perezasociados.es",
+    "direccion": "Avenida de la Constitución 12, 41004 Sevilla"
+  }
+}

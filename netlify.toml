@@ -1,0 +1,17 @@
+[build]
+  command = "npm run build"
+  functions = "netlify/functions"
+  publish = "out"
+
+# Redirect rule for the API path
+[[redirects]]
+  from = "/api/webhook"
+  to = "/.netlify/functions/webhook"
+  status = 200
+  force = true
+
+# Handle all routes for SPA navigation
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
