@@ -1,0 +1,149 @@
+{
+  "nombre_estudio": "Bufete de Abogados de Hasson D. Barnes",
+  "slug": "bufete-de-abogados-de-hasson-d-barnes",
+  "resumen": {
+    "descripcion": "El Bufete de Abogados de Hasson D. Barnes es un estudio legal de servicio completo en Maryland, fundado en 2009, centrado en proporcionar un excelente servicio legal en áreas como derecho de familia, lesiones personales y defensa criminal.",
+    "año_fundacion": "Establecido en 2009",
+    "historia": "Fundado en 2009 por Hasson D. Barnes, tras años de experiencia en un bufete de abogados de Baltimore, el bufete se especializa en representar a clientes en áreas variadas del derecho con un enfoque en brindar atención personalizada y servicios legales de alta calidad."
+  },
+  "ubicaciones": [
+    "Baltimore, Maryland"
+  ],
+  "idiomas": [
+    "Español",
+    "Inglés"
+  ],
+  "areas_practica": [
+    {
+      "nombre": "Derecho de Familia",
+      "slug": "derecho-de-familia",
+      "descripcion": "En el Bufete de Abogados de Hasson D. Barnes, se enfocan en representar casos de derecho de familia, incluyendo divorcio, custodia de menores, adopción y violencia doméstica.",
+      "tipos_casos": [
+        "Divorcio",
+        "Custodia de menores",
+        "Adopción",
+        "Violencia doméstica",
+        "Pensión alimenticia"
+      ]
+    },
+    {
+      "nombre": "Lesiones Personales",
+      "slug": "lesiones-personales",
+      "descripcion": "El bufete brinda representación en casos de lesiones personales, luchando para obtener compensación justa en accidentes de auto, negligencia médica y otros incidentes causados por terceros negligentes.",
+      "tipos_casos": [
+        "Accidentes de auto",
+        "Negligencia médica",
+        "Responsabilidad civil"
+      ]
+    },
+    {
+      "nombre": "Derecho Penal",
+      "slug": "derecho-penal",
+      "descripcion": "Con una defensa criminal sólida, el bufete ayuda a clientes en casos de delitos menores, delitos graves y defensa de DUI.",
+      "tipos_casos": [
+        "Delitos menores",
+        "Delitos graves",
+        "Defensa de DUI"
+      ]
+    }
+  ],
+  "valores": {
+    "resumen": "El Bufete de Abogados de Hasson D. Barnes se guía por principios de honestidad, dedicación y defensa incansable de los derechos de sus clientes.",
+    "lista": [
+      {
+        "nombre": "Compromiso con la excelencia",
+        "descripcion": "Buscan la excelencia en cada aspecto de su trabajo legal para obtener los mejores resultados para sus clientes."
+      },
+      {
+        "nombre": "Integridad sin compromisos",
+        "descripcion": "Actúan con integridad y ética en todas sus interacciones legales y personales para construir confianza."
+      }
+    ]
+  },
+  "experiencia_cliente": {
+    "enfoque": "En el Bufete de Abogados de Hasson D. Barnes, cada cliente recibe atención personalizada y comprensiva en todas las etapas del proceso legal, asegurando una representación efectiva y sensible.",
+    "etapas": [
+      {
+        "nombre": "Asesoramiento inicial",
+        "descripcion": "Se brinda una consulta detallada para comprender las necesidades del cliente y establecer una estrategia legal sólida."
+      },
+      {
+        "nombre": "Proceso legal",
+        "descripcion": "El bufete se compromete a representar al cliente con diligencia y liderazgo en todas las acciones legales necesarias."
+      }
+    ]
+  },
+  "abogados": {
+    "descripcion": "El equipo legal del Bufete de Abogados de Hasson D. Barnes está formado por profesionales experimentados y dedicados en áreas de civil y penal, así como en asuntos de bienes raíces y defensa familiar.",
+    "equipo": [
+      {
+        "nombre": "Hasson D. Barnes",
+        "cargo": "Abogado Principal",
+        "descripcion": "Con experiencia en defensa criminal, derecho de bienes raíces y asuntos familiares, el Sr. Barnes lidera el bufete con un enfoque centrado en el cliente.",
+        "foto_url": ""
+      }
+    ]
+  },
+  "reconocimientos": {
+    "descripcion": "El Bufete de Abogados de Hasson D. Barnes ha sido reconocido por su excelencia y dedicación en la representación legal, ganando elogios de clientes y colegas del sector.",
+    "logros": [
+      "Reconocimiento a la excelencia en derecho de familia",
+      "Mejor bufete de abogados en Maryland"
+    ]
+  },
+  "compromiso_comunidad": [
+    {
+      "iniciativa": "Asistencia legal pro bono",
+      "descripcion": "El bufete participa activamente en programas de asistencia legal gratuita para apoyar a la comunidad local necesitada."
+    }
+  ],
+  "contacto": {
+    "descripcion": "Para contactar al Bufete de Abogados de Hasson D. Barnes, puedes llamar por teléfono, enviar un correo electrónico o visitar su sitio web para más información detallada.",
+    "telefono": "443-423-0548",
+    "correo": "",
+    "sitio_web": "https://www.hbarneslaw.com/",
+    "metodos": [
+      {
+        "metodo": "Llamada telefónica",
+        "descripcion": "Comunícate directamente con el bufete a través de su número de teléfono."
+      },
+      {
+        "metodo": "Sitio web",
+        "descripcion": "Visita su sitio web oficial para conocer más sobre sus servicios y áreas de práctica."
+      }
+    ]
+  },
+  "etiquetas": [
+    "consulta gratuita",
+    "servicio en español",
+    "más de 20 años de experiencia"
+  ],
+  "soporte_espanol": true,
+  "evidencia_espanol": "El bufete ofrece servicios legales en español para atender las necesidades de una comunidad diversa.",
+  "estado": "publicado",
+  "_debug": {
+    "unmatched_areas": [],
+    "unmatched_case_types": [
+      "Custodia de menores",
+      "Accidentes de auto",
+      "Defensa de DUI"
+    ]
+  },
+  "name": "${$json.slug}.json`",
+  "path": "`data/lawyers/${$json.slug}.json`",
+  "sha": "db457ced35ae4cb6b8a91fe87c80af3cc78985e4",
+  "size": 30,
+  "url": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/contents/%60data/lawyers/$%7B$json.slug%7D.json%60?ref=main",
+  "html_url": "https://github.com/ronny305/conectaabogados04_03_forked/blob/main/%60data/lawyers/$%7B$json.slug%7D.json%60",
+  "git_url": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/git/blobs/db457ced35ae4cb6b8a91fe87c80af3cc78985e4",
+  "download_url": "https://raw.githubusercontent.com/ronny305/conectaabogados04_03_forked/main/%60data/lawyers/%24%7B%24json.slug%7D.json%60",
+  "type": "file",
+  "content": "SlNPTi5zdHJpbmdpZnkoJGpzb24sIG51bGwsIDIp\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/contents/%60data/lawyers/$%7B$json.slug%7D.json%60?ref=main",
+    "git": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/git/blobs/db457ced35ae4cb6b8a91fe87c80af3cc78985e4",
+    "html": "https://github.com/ronny305/conectaabogados04_03_forked/blob/main/%60data/lawyers/$%7B$json.slug%7D.json%60"
+  },
+  "db457ced35ae4cb6b8a91fe87c80af3cc78985e4": ""
+}
