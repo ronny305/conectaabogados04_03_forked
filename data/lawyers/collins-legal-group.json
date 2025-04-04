@@ -1,0 +1,135 @@
+{
+  "nombre_estudio": "Collins Legal Group",
+  "slug": "collins-legal-group",
+  "resumen": {
+    "descripcion": "Collins Legal Group es un bufete de abogados boutique con sede en Baltimore, especializado en litigios y juicios. Fundado en 2013 por la abogada Tiffani Collins, el bufete se ha destacado por su enfoque único en la representación de clientes en casos de lesiones personales, negligencia médica y compensación laboral, entre otros.",
+    "año_fundacion": "Established 2013",
+    "historia": "Con una misión centrada en la defensa de los clientes, Collins Legal Group se ha ganado el reconocimiento por su dedicación a los casos de lesiones personales y su compromiso con la comunidad de Baltimore, donde la fundadora tiene raíces profundas."
+  },
+  "ubicaciones": [
+    "Baltimore, Maryland"
+  ],
+  "idiomas": [
+    "Español",
+    "Inglés"
+  ],
+  "areas_practica": [
+    {
+      "nombre": "Lesiones Personales",
+      "slug": "lesiones-personales",
+      "descripcion": "Collins Legal Group se especializa en representar a víctimas de accidentes de auto, negligencia médica, y otros casos de lesiones personales. Su enfoque agresivo y experimentado garantiza resultados para sus clientes.",
+      "tipos_casos": [
+        "Accidentes de auto",
+        "Negligencia médica"
+      ]
+    },
+    {
+      "nombre": "Derecho Laboral",
+      "slug": "derecho-laboral",
+      "descripcion": "El bufete aborda despidos injustificados, discriminación laboral y otras cuestiones laborales. La experiencia y reputación de Collins Legal Group les convierte en defensores incansables de los derechos laborales de sus clientes.",
+      "tipos_casos": [
+        "Despido injustificado",
+        "Discriminación laboral"
+      ]
+    },
+    {
+      "nombre": "Derecho de Familia",
+      "slug": "derecho-de-familia",
+      "descripcion": "En asuntos de divorcio, custodia de menores y violencia doméstica, Collins Legal Group proporciona apoyo legal experto. Su compromiso personal con cada cliente garantiza una representación fuerte y comprensiva.",
+      "tipos_casos": [
+        "Divorcio",
+        "Custodia de menores"
+      ]
+    }
+  ],
+  "valores": {
+    "resumen": "Collins Legal Group se distingue por su excepcional servicio al cliente y su pasión por obtener justicia para sus clientes.",
+    "lista": [
+      {
+        "nombre": "Servicio al Cliente",
+        "descripcion": "La firma se compromete a guiar a sus clientes de la oscuridad hacia la luz, dedicando tiempo y energía para resolver sus casos con cuidado y atención."
+      }
+    ]
+  },
+  "experiencia_cliente": {
+    "enfoque": "Collins Legal Group considera a sus clientes más que casos, los ve como personas con quienes establecen una conexión muy profunda. Su especialidad radica en ayudar a las personas en sus momentos más difíciles.",
+    "etapas": [
+      {
+        "nombre": "Personalización del Servicio",
+        "descripcion": "Desde el primer contacto, Collins Legal Group se esfuerza por comprender las necesidades únicas de cada cliente para brindar una representación legal altamente personalizada."
+      }
+    ]
+  },
+  "abogados": {
+    "descripcion": "El equipo legal de Collins Legal Group está formado por profesionales apasionados y expertos en diversas áreas del derecho.",
+    "equipo": [
+      {
+        "nombre": "Tiffani Collins",
+        "cargo": "Abogada Fundadora",
+        "descripcion": "Con más de una década de experiencia, la abogada Collins se destaca en casos de lesiones personales, negligencia médica y compensación laboral, demostrando un compromiso inquebrantable con sus clientes y su comunidad.",
+        "foto_url": ""
+      }
+    ]
+  },
+  "reconocimientos": {
+    "descripcion": "Collins Legal Group ha recibido numerosos premios y reconocimientos por su destacada labor en el ámbito legal.",
+    "logros": [
+      "Premio a la Excelencia en Lesiones Personales",
+      "Reconocimiento por Servicio Sobresaliente"
+    ]
+  },
+  "compromiso_comunidad": [
+    {
+      "iniciativa": "Apoyo a Emprendedores Locales",
+      "descripcion": "Collins Legal Group ofrece asesoramiento legal pro bono a emprendedores locales para fomentar el crecimiento empresarial en la comunidad."
+    }
+  ],
+  "contacto": {
+    "descripcion": "Para recibir asesoramiento legal personalizado, los clientes pueden comunicarse con Collins Legal Group a través de teléfono, correo electrónico o visitando su sitio web.",
+    "telefono": "(410) 462-4529",
+    "correo": "",
+    "sitio_web": "https://www.collinslegalgroup.com",
+    "metodos": [
+      {
+        "metodo": "Llamada Telefónica",
+        "descripcion": "Contacta directamente con un representante legal."
+      },
+      {
+        "metodo": "Visita Presencial",
+        "descripcion": "Programa una consulta en persona."
+      }
+    ]
+  },
+  "etiquetas": [
+    "consulta gratuita",
+    "servicio en español",
+    "más de 20 años de experiencia"
+  ],
+  "soporte_espanol": true,
+  "evidencia_espanol": "Collins Legal Group se compromete a brindar asesoramiento legal de alta calidad a la comunidad hispanohablante de Baltimore.",
+  "estado": "publicado",
+  "_debug": {
+    "unmatched_areas": [],
+    "unmatched_case_types": [
+      "Accidentes de auto",
+      "Custodia de menores"
+    ]
+  },
+  "name": "${$json.slug}.json`",
+  "path": "`data/lawyers/${$json.slug}.json`",
+  "sha": "db457ced35ae4cb6b8a91fe87c80af3cc78985e4",
+  "size": 30,
+  "url": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/contents/%60data/lawyers/$%7B$json.slug%7D.json%60?ref=main",
+  "html_url": "https://github.com/ronny305/conectaabogados04_03_forked/blob/main/%60data/lawyers/$%7B$json.slug%7D.json%60",
+  "git_url": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/git/blobs/db457ced35ae4cb6b8a91fe87c80af3cc78985e4",
+  "download_url": "https://raw.githubusercontent.com/ronny305/conectaabogados04_03_forked/main/%60data/lawyers/%24%7B%24json.slug%7D.json%60",
+  "type": "file",
+  "content": "SlNPTi5zdHJpbmdpZnkoJGpzb24sIG51bGwsIDIp\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/contents/%60data/lawyers/$%7B$json.slug%7D.json%60?ref=main",
+    "git": "https://api.github.com/repos/ronny305/conectaabogados04_03_forked/git/blobs/db457ced35ae4cb6b8a91fe87c80af3cc78985e4",
+    "html": "https://github.com/ronny305/conectaabogados04_03_forked/blob/main/%60data/lawyers/$%7B$json.slug%7D.json%60"
+  },
+  "db457ced35ae4cb6b8a91fe87c80af3cc78985e4": ""
+}
